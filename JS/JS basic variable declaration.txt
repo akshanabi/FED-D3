@@ -1,0 +1,42 @@
+let a="JS";
+
+let num = 123;
+
+let b;
+
+console.log(typeof(num));
+
+//console.log(string)
+//var name ="SHANTHI"
+
+let name="Javascipt"
+console.log(name);
+
+{
+    let another = name
+    console.log(another);
+
+   var lan = 123;
+
+}
+
+let anotherlan = lan
+console.log(anotherlan);
+
+//const lan="react"
+
+//addition
+//let a = 5;
+//let b = 5;
+
+//console.log(a+b);
+
+//comparision
+
+//let a = 10;
+//let b = '10';
+//if(a === b){
+    //console.log("Welcome");
+    //} else{
+    //    console.log("Not Allow");
+    //}
